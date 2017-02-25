@@ -59,4 +59,7 @@ React Navigation is born from the React Native community's need for an extensibl
 
 Until the community lands on one navigation solution that works well on the web and React Native, we will forever be destined to re-invent navigation. We are extremely sensitive about the burden of change that accompanies a new navigation library, so we aim to provide a solution that will work long into the future. We are excited to support React Navigation for any platform, including cutting-edge frontiers like hybrid native apps, web server rendering, and ReactVR.
 
-The first beta of React Navigation is available today on npm and GitHub, and you can [get started here](/docs/intro). We're excited to hear feedback from the React community, and together we still have a long way to go before our dream is realized. We'd love to see the community flourish with beautiful navigation views, custom router integrations, and more easy-to-use navigators. All of these individual contributions can work together seamlessly. If you have improvements for the built-in components, please [follow the contributors guide](/docs/guides/contributors) and dive right in!
+lksdmcldksmc
+s
+dc dsclkdsmcdsc
+dnlckmsdlkcmsd
